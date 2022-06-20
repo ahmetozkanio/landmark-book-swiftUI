@@ -37,6 +37,6 @@ let londonBridgeLandmark = Landmark(id: 2, name: "London Bridge", imageName: "lo
 
 let pisaLandmark = Landmark(id: 3, name: "Pisa", imageName: "pisa", country: "Italy", category: "Tower", coordinates: Coordinates(latitude: 43.7068534, longitude: 10.3253373))
 
-let sydneyLandmark = Landmark(id: 0, name: "Opera House", imageName: "sydney", country: "Australia", category: "Opera House", coordinates: Coordinates(latitude: 33.8458285, longitude:  150.3700928))
+let sydneyLandmark = Landmark(id: 4, name: "Opera House", imageName: "sydney", country: "Australia", category: "Opera House", coordinates: Coordinates(latitude: 33.8458285, longitude:  150.3700928))
 
 let landmarkArray = [eiffelLandmark,colesseumLandmark,londonBridgeLandmark,pisaLandmark,sydneyLandmark]
